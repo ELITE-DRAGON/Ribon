@@ -170,7 +170,7 @@ Ribon is released under the MIT License, permitting open use, modification, and 
 
 For further questions, suggestions, or discussions, feel free to reach out:
 
-- **Email**: your.email@example.com
+- **Email**: selite470@gmail.com
 - **GitHub Issues**: Use the issues tab for bug reports or feature requests.
 
 Thank you for using Ribon responsibly! Remember, ethical security testing contributes to a safer digital world for everyone.
